@@ -1,1 +1,5 @@
-print("Hello World - from BreakOut 4 - Steven - Backend")
+print("Hello World - from BreakOut 4")
+print("Member 1: Lucky - Frontend")
+print("Member 2: Steven - Backend")
+print("Member 3: Kevin - Manager")
+print("Member 4: Kyle - Tester")
