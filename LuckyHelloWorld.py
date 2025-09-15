@@ -1,4 +1,4 @@
-print("Hello World - from Group JCS")
+print("Hello World - from BreakOut 4")
 print("Member 1: Lucky - Frontend")
 print("Member 2: Steven - Backend")
 print("Member 3: Kevin - Manager")
